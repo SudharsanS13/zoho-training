@@ -1,1 +1,1 @@
-# zoho-training
+# zoho-trainings
